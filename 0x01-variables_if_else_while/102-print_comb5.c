@@ -6,7 +6,7 @@
 *The numbers should range from 0 to 99
 *numbers must be separated by ,followed by a space
 *All numbers should be printed with two digits. 1 should be printed as 01
-*Return: 
+*Return: Always 0 (Success)
 */
 
 int main(void)
