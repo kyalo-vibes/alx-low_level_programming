@@ -4,7 +4,7 @@
  * print_alphabet - prints the whole lowercase alphabet
  * Return: void
  */
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
 		int n = 0;
 
