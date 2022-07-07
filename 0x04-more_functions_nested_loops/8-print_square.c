@@ -16,13 +16,13 @@ void print_square(int size)
 		{
 			for (col = 0; col < size; col++)
 			{
-				_putchar(35);
+				_putchar (35);
 			}
-			_putchar('\n');
+			_putchar ('\n');
 		}
 	}
 	else
 	{
-		_putchar('\n');
+		_putchar ('\n');
 	}
 }
