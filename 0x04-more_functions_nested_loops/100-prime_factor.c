@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/** 
+/**
  * main - finds and prints the largest prime factor of the number
  * 612852475143
  * Return: 0.
@@ -14,10 +14,10 @@ int main(void)
 
 	while (num != 1)
 	{
-		if (num % divisor == 0)
+		if (num % divisor == o)
 		{
 			num = num / divisor;
-			larg_prim = divisor;	
+			larg_prim = divisor;
 		}
 		divisor++;
 	}
